@@ -1,0 +1,4 @@
+admin info
+url:http://localhost/RabihMahmoud91830245/admin/
+username:rabihmh
+password:123123
